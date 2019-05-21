@@ -1,0 +1,16 @@
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\bin\Debug\netcoreapp2.1\ConsoleWriteLibrary.deps.json
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\bin\Debug\netcoreapp2.1\ConsoleWriteLibrary.dll
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\bin\Debug\netcoreapp2.1\ConsoleWriteLibrary.pdb
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\obj\Debug\netcoreapp2.1\ConsoleWriteLibrary.csprojAssemblyReference.cache
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\obj\Debug\netcoreapp2.1\ConsoleWriteLibrary.csproj.CoreCompileInputs.cache
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\obj\Debug\netcoreapp2.1\ConsoleWriteLibrary.AssemblyInfoInputs.cache
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\obj\Debug\netcoreapp2.1\ConsoleWriteLibrary.AssemblyInfo.cs
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\obj\Debug\netcoreapp2.1\ConsoleWriteLibrary.dll
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\obj\Debug\netcoreapp2.1\ConsoleWriteLibrary.pdb
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\bin\Debug\netcoreapp2.1\TestDllBindApp.dll
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\bin\Debug\netcoreapp2.1\TestDllBindApp.pdb
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\obj\Debug\netcoreapp2.1\ConsoleWriteLibrary.csproj.CopyComplete
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\bin\Debug\netcoreapp2.1\lib\lib1.dll
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\bin\Debug\netcoreapp2.1\lib\lib2.dll
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\bin\Debug\netcoreapp2.1\lib\config\cameras.json
+C:\Users\korne\RiderProjects\TestDllBindApp\ConsoleWriteLibrary\bin\Debug\netcoreapp2.1\lib\lib3.dll
